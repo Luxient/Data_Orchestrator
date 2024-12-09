@@ -1,0 +1,6 @@
+requests
+psycopg2
+pymysql
+sqlalchemy
+pandas
+google - analytics - data
